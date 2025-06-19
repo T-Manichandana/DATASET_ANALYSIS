@@ -56,27 +56,5 @@ Transparency and compliance are strong indicators of sustainability
 
 Predictive modeling can assist brands in measuring and improving their ethical footprint
 
-Data science can drive actionable insights to improve the sustainability of fast fashion
-
-📁 Files in this Repository
-DATA_ANALYSIS.ipynb – Jupyter notebook with full code and analysis
-
-FDS_REPORT.pdf – Final report detailing methods, findings, and conclusion
-
-🚀 How to Use
-Clone this repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/<your-username>/<repo-name>.git
-Open DATA_ANALYSIS.ipynb in Jupyter or Google Colab.
-
-Install required Python libraries:
-
-bash
-Copy
-Edit
-pip install pandas matplotlib seaborn scikit-learn
-Run the notebook cells sequentially to explore and reproduce the analysis.
+Data science can drive actionable insights to improve the sustainability of fast fashion...
 
